@@ -1,2 +1,2 @@
 # Tech-Trove
-E-commerce website using only HTML
+Responsive E-commerce website using only HTML
